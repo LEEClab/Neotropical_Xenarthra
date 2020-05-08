@@ -1,4 +1,4 @@
-# Neotropical_Xenarthra: a data set of occurrence of xenarthran species in the Neotropics
+# Neotropical Xenarthra: a data set of occurrence of xenarthran species in the Neotropics
 
 Santos et al. 2019. Published on [Ecology](https://onlinelibrary.wiley.com/doi/10.1002/ecy.2663/suppinfo). doi:10.1002/ecy.2663
 
